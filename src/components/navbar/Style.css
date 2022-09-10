@@ -1,0 +1,82 @@
+header{
+    background-color: rgba(150, 85, 11, 0.63);
+    height: 60px;
+    margin-top: 10px;
+}
+
+.logo{
+    text-align: start;
+    width: 90px;
+    height: 90px;
+    
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+    /*background-color: aqua;*/
+    float: initial;
+    margin-left: 700px;
+    padding-top: 20px;
+}
+li{
+    margin-left: 60px;
+    text-align: center;
+    float: left;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color:rgba(52, 25, 201, 0.671);
+    text-decoration: underline ;
+}
+
+.cotent{
+    margin-top: 30px;
+    margin-right:200px;
+    border-radius: 9px;
+}
+
+h1{
+     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text{
+    margin: 50px 70px 70px 70px;
+}
+
+footer{
+    background-color: rgba(255, 166, 0, 0.685);
+    border-radius: 2px;
+}
+.texte{
+    background-image: url(./img/world.webp);
+    width: 100;
+    height: 1000px;
+}
+.imagem{
+    width: 30px;
+    margin-top: 20px;
+}
+
+
+/* .fonte{
+
+    background-color: rgba(0, 0, 0, 0.527);
+    color: white;
+    align-content: center;
+    margin-inline-start: 500px;
+    border-radius: 9px;
+    margin-top: 15vmin;
+    margin-block-end: 30px;
+    margin-inline-end:500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;
+
+} */
